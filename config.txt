@@ -1,0 +1,1 @@
+WindowWidth: 800 WindowHeight: 800 Rows: 80 Cols: 80 CellSize: 10 GridSize: 2 FrameRate: 30 AliveColor: 4 DeadColor: 1
